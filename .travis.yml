@@ -10,6 +10,8 @@ android:
 
     - android-25
     - extra-android-m2repository
+    - sys-img-armeabi-v7a-android-25
+
   licenses:
       - 'android-sdk-license-5be876d5'
       - 'android-sdk-license-c81a61d9'
