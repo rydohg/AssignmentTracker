@@ -3,7 +3,7 @@ jdk: oraclejdk8
 
 android:
   components:
-     - platform-tools
+#     - platform-tools
      - tools
 
     # The BuildTools version used by your project
