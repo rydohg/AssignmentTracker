@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment Tracker</string>
+
+    <string name="title_activity_add_assignment">Add Assignment</string>
+    <string name="editText_title">Title</string>
+    <string name="editText_desc">Description</string>
+    <string name="checkbox_name">Repeat Weekly</string>
+</resources>
